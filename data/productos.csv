@@ -1,0 +1,21 @@
+id,nombre,categoria,precio_unitario,stock,unidad
+11001,ACOPLE SANITARIO GRIVAL,Plomeria,500.00,20,Pieza
+11002,ALAMBRE GALVANIZADO 16,Materiales de construccion,400.00,16,Rollo
+11003,AZADON,Jardineria,450.00,16,Pieza
+11004,BROCA BARIQUI 1/2,Electricidad,93.00,23,Pieza
+11005,CABLE COAXIAL NEGRO,Electricidad,50.00,118,Metro
+11006,CANALETAS DE 1/4 2MT,Electricidad,25.00,54,Pieza
+11007,"CLAVOS DE HIERRO 1""",Tornilleria y anclajes,50.00,36,KG
+11008,"CLAVOS DE HIERRO 2""",Tornilleria y anclajes,50.00,65,KG
+11009,CODO GALVANIZADO 1/2,Plomeria,15.00,80,Pieza
+11010,"DISCO CORTE MADERA 7""",Herramientas eléctricas,300.00,24,Pieza
+11011,DISCO DIAMANTADO SEGMENTADO 4 1/2,Herramientas eléctricas,115.00,8,Pieza
+11012,FLEXOMETRO 3MTS,Herramientas de medición,149.00,12,Pieza
+11013,FUMIGADORA 5LT,Jardineria,219.00,9,Pieza
+11014,LAMINA ACANALADA PVC R 72 COLOR ROJO,Materiales de construccion,1499.00,100,Pieza
+11015,TELA GALLINERO ARAUTEL 45M #25 120 CM,Cercas y Mallas,1700.00,20,Rollo
+11016,MALLA HEXAGONAL 1.50 M X 25 MM - 45 M,Cercas y Mallas,2599.00,16,Rollo
+11017,MARCO SEGUETA,Herramientas manuales,130.00,10,Pieza
+11018,MARTILLO 25MM,Herramientas manuales,280.00,4,Pieza
+11019,"NIVEL 14""",Herramientas de medición,50.00,13,Pieza
+11020,"ROTOMARTILLO 1/2""",Herramientas eléctricas,1239.00,7,Pieza
